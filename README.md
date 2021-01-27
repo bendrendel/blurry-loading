@@ -1,7 +1,7 @@
 # Blurry Loading
 
 ## Introduction
-This project is ...
+This project is a blurred background image that gradually comes into focus as a counter increases from 0% to 100%.
 
 ## Technologies
 This project uses HTML, CSS, and vanilla JS.
